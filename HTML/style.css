@@ -1,0 +1,44 @@
+/* Seletores */
+
+/*Inline = direto na tag HTML*/
+
+h1{
+    /*COR DO ELEMENTO*/
+    color:rgb(119, 0, 255);
+    /*Tipo de fonte*/
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /*TAMANHO DE FONTE */
+    font-size: 26pt;
+    /*Alinhamento da fonte*/
+    text-align:center;
+
+};
+
+h2{
+
+    color:blue;
+};
+
+p{
+    /*Justifique o texto*/
+    text-align: justify
+
+};
+
+h3{
+
+    text-align:center;
+    font-family: fantasy;
+    font-style: italic;
+    color: blue;
+
+};
+
+.img_html{
+
+    /*altura*/
+    height: 50px;
+    /*Largura*/
+    width: 50px;
+
+};
