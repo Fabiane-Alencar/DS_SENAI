@@ -27,8 +27,9 @@ form{
             
                 A propriedade CSS transform permite modificar o espaço coordenado do modelo de formatação CSS. Usando-a, elementos podem ser traduzidos, rotacionados, ter seu tamanho ajustado e inclinados de acordo com os valores definidos.
             */
-            padding: 50px;
-            border-radius: 15px;
+            padding: 10px;
+            margin-top: 20px;
+            border-radius: 5px;
             color: #fff;
 }
 
@@ -52,9 +53,10 @@ label{
 
 .campo1{
 
-        padding-right: 20px;
-        border-radius: 20px;
+        padding-right: 50px;
+        border-radius: 15px;
         height: 20px;
+
 }
 
 .botao{
